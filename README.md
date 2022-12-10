@@ -37,13 +37,16 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - [ ] basic set up
 - [ ] check static generation
+- [ ] amend strapi api routes ?
+- [ ] fix ts
 - [ ] check hook from strapi
 - [ ] check vercel deploy?
 - [ ] migrate components
+- [ ] add test env ?
 
 ## basic set up
 
 - [x] Create repo and push first commit
 - [ ] Add depencies
-- [ ] Set up router
+- [x] Set up router
 - [ ] Fetch data
