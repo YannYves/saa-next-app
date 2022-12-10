@@ -35,13 +35,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Backlog
 
-- [ ] basic set up
-- [ ] check static generation
-- [ ] amend strapi api routes ?
+- [x] basic set up
+- [ ] migrate React components
 - [ ] fix ts
-- [ ] check hook from strapi
+- [ ] check build webhook from strapi
+- [ ] deploy in prod
 - [ ] check vercel deploy?
-- [ ] migrate components
 - [ ] add test env ?
 
 ## basic set up
@@ -49,4 +48,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [x] Create repo and push first commit
 - [ ] Add depencies
 - [x] Set up router
-- [ ] Fetch data
+- [x] Fetch data ( all post as per page name and as per post id)
