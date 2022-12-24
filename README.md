@@ -49,3 +49,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - [ ] Add depencies
 - [x] Set up router
 - [x] Fetch data ( all post as per page name and as per post id)
+
+## migrate React components
